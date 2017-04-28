@@ -1,4 +1,4 @@
-WP Mail SMTP
+WP Config Mail SMTP
 ---
 
-https://wordpress.org/plugins/wp-mail-smtp/
+This plugin is based on the work of [chmac](https://github.com/chmac/wp-mail-smtp)
